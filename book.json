@@ -52,7 +52,7 @@
         "-theme-fexa",
         "theme-evalor",
         "advanced-emoji",
-        "pageview-count",
+        "-pageview-count",
         "auto-scroll-table"
     ],
     "variables": {
