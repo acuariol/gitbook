@@ -1,0 +1,133 @@
+{
+    "title": "程序员的粘贴复制",
+    "author": "aucario",
+    "description": "程序员的粘贴复制",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "intro": {
+        "avatar": "./source/images/ramos.jpg",
+        "nickname": "ServeJS",
+        "content": "程序员的复制粘贴",
+        "icons": {
+            "github": "https://github.com/acuariol",
+            "weibo": "https://weibo.com/lskywing",
+            "email": "me@acuario.cn"
+        }
+    },
+    "styles": {
+        "website": "./styles/website.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "我的博客": "http://blog.servejs.com"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "-search",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "splitter",
+        "expandable-chapters-small",
+        "anchors",
+        "-github",
+        "github-buttons",
+        "donate",
+        "sharing-plus",
+        "-anchor-navigation-ex",
+        "favicon",
+        "back-to-top-button",
+        "chapter-fold",
+        "code",
+        "-insert-logo",
+        "-page-treeview",
+        "-page-toc-button",
+        "-ancre-navigation",
+        "flexible-alerts",
+        "tbfed-pagefooter",
+        "-theme-fexa",
+        "theme-evalor",
+        "advanced-emoji",
+        "pageview-count",
+        "auto-scroll-table"
+    ],
+    "variables": {
+        "themeFexa": {
+            "nav": [{
+                "url": "http://blog.servejs.com",
+                "target": "_blank",
+                "name": "博客主页"
+            }]
+        }
+    },
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/acuariol"
+        },
+        "github-buttons": {
+            "buttons": [{
+                "user": "acuariol",
+                "repo": "gitbook",
+                "type": "star",
+                "size": "small",
+                "count": true
+            }]
+        },
+        "donate": {
+            "alipay": "./source/images/donate.jpg",
+            "title": "",
+            "button": "赞赏",
+            "alipayText": " "
+        },
+        "sharing": {
+            "qzone": true,
+            "weibo": true,
+            "twitter": true,
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "stumbleupon": false,
+            "viber": false,
+            "vk": false,
+            "whatsapp": false,
+            "all": [
+                "google", "facebook", "douban", "qq", "linkedin", "pocket"
+            ]
+        },
+        "anchor-navigation-ex": {
+            "showLevel": true
+        },
+        "favicon": {
+            "shortcut": "./source/images/favicon-180x180.png",
+            "bookmark": "./source/images/favicon-180x180.png",
+            "appleTouch": "./source/images/favicon-180x180.png",
+            "appleTouchMore": {
+                "120x120": "./source/images/favicon-120x120.png",
+                "180x180": "./source/images/favicon-180x180.png"
+            }
+        },
+        "insert-logo": {
+            "url": "./source/images/favicon-180x180.png",
+            "style": "background: none; max-height: 30px; min-height: 30px"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "",
+            "modify_label": "最后修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "theme-fexa": {
+            "search-placeholder": "输入关键字搜索"
+        }
+    }
+}
