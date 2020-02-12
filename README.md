@@ -1,5 +1,5 @@
 `gitbook install`
 
-`gitbook server`
+`gitbook serve`
 
 `gitbook build`
