@@ -5,7 +5,7 @@
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "intro": {
-        "avatar": "./source/images/ramos.jpg",
+        "avatar": "./src/images/ramos.jpg",
         "nickname": "ServeJS",
         "content": "程序员的复制粘贴",
         "icons": {
@@ -45,7 +45,7 @@
         "code",
         "-insert-logo",
         "-page-treeview",
-        "-page-toc-button",
+        "page-toc-button",
         "-ancre-navigation",
         "flexible-alerts",
         "tbfed-pagefooter",
@@ -78,7 +78,7 @@
             }]
         },
         "donate": {
-            "alipay": "./source/images/donate.jpg",
+            "alipay": "./src/images/donate.jpg",
             "title": "",
             "button": "赞赏",
             "alipayText": " "
@@ -109,16 +109,16 @@
             "showLevel": true
         },
         "favicon": {
-            "shortcut": "./source/images/favicon-180x180.png",
-            "bookmark": "./source/images/favicon-180x180.png",
-            "appleTouch": "./source/images/favicon-180x180.png",
+            "shortcut": "./src/images/favicon-180x180.png",
+            "bookmark": "./src/images/favicon-180x180.png",
+            "appleTouch": "./src/images/favicon-180x180.png",
             "appleTouchMore": {
-                "120x120": "./source/images/favicon-120x120.png",
-                "180x180": "./source/images/favicon-180x180.png"
+                "120x120": "./src/images/favicon-120x120.png",
+                "180x180": "./src/images/favicon-180x180.png"
             }
         },
         "insert-logo": {
-            "url": "./source/images/favicon-180x180.png",
+            "url": "./src/images/favicon-180x180.png",
             "style": "background: none; max-height: 30px; min-height: 30px"
         },
         "tbfed-pagefooter": {
